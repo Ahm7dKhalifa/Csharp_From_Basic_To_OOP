@@ -1,0 +1,6 @@
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\5_Methods\one\one\bin\Debug\one.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\5_Methods\one\one\bin\Debug\one.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\5_Methods\one\one\bin\Debug\one.pdb
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\5_Methods\one\one\obj\Debug\one.csprojResolveAssemblyReference.cache
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\5_Methods\one\one\obj\Debug\one.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\5_Methods\one\one\obj\Debug\one.pdb
