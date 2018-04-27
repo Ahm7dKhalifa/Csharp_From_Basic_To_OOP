@@ -1,0 +1,6 @@
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\ComperasionExpression\ComperasionExpression\bin\Debug\ComperasionExpression.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\ComperasionExpression\ComperasionExpression\bin\Debug\ComperasionExpression.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\ComperasionExpression\ComperasionExpression\bin\Debug\ComperasionExpression.pdb
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\ComperasionExpression\ComperasionExpression\obj\Debug\ComperasionExpression.csprojResolveAssemblyReference.cache
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\ComperasionExpression\ComperasionExpression\obj\Debug\ComperasionExpression.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\ComperasionExpression\ComperasionExpression\obj\Debug\ComperasionExpression.pdb

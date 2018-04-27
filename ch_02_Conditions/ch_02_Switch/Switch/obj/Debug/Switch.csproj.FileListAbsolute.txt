@@ -1,0 +1,6 @@
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Switch\Switch\bin\Debug\Switch.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Switch\Switch\bin\Debug\Switch.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Switch\Switch\bin\Debug\Switch.pdb
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Switch\Switch\obj\Debug\Switch.csprojResolveAssemblyReference.cache
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Switch\Switch\obj\Debug\Switch.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Switch\Switch\obj\Debug\Switch.pdb

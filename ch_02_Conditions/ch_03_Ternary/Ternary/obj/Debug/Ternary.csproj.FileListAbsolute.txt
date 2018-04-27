@@ -1,0 +1,6 @@
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Ternary\Ternary\bin\Debug\Ternary.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Ternary\Ternary\bin\Debug\Ternary.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Ternary\Ternary\bin\Debug\Ternary.pdb
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Ternary\Ternary\obj\Debug\Ternary.exe
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Ternary\Ternary\obj\Debug\Ternary.pdb
+D:\هندسة\علم الالكترونيات\2-programming\2-languages\2-desktop languages\c#\exercies\3_conditions\Ternary\Ternary\obj\Debug\Ternary.csprojResolveAssemblyReference.cache
