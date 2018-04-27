@@ -1,0 +1,6 @@
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UlongDataType\UlongDataType\bin\Debug\UlongDataType.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UlongDataType\UlongDataType\bin\Debug\UlongDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UlongDataType\UlongDataType\bin\Debug\UlongDataType.pdb
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UlongDataType\UlongDataType\obj\Debug\UlongDataType.csprojResolveAssemblyReference.cache
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UlongDataType\UlongDataType\obj\Debug\UlongDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UlongDataType\UlongDataType\obj\Debug\UlongDataType.pdb

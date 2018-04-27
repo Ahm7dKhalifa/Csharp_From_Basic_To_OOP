@@ -1,0 +1,5 @@
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\ShortDataType\ShortDataType\bin\Debug\ShortDataType.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\ShortDataType\ShortDataType\bin\Debug\ShortDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\ShortDataType\ShortDataType\bin\Debug\ShortDataType.pdb
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\ShortDataType\ShortDataType\obj\Debug\ShortDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\ShortDataType\ShortDataType\obj\Debug\ShortDataType.pdb

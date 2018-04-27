@@ -1,0 +1,5 @@
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\DecimalDataType\DecimalDataType\bin\Debug\DecimalDataType.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\DecimalDataType\DecimalDataType\bin\Debug\DecimalDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\DecimalDataType\DecimalDataType\bin\Debug\DecimalDataType.pdb
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\DecimalDataType\DecimalDataType\obj\Debug\DecimalDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\DecimalDataType\DecimalDataType\obj\Debug\DecimalDataType.pdb

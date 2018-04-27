@@ -1,0 +1,5 @@
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UintDataType\UintDataType\bin\Debug\UintDataType.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UintDataType\UintDataType\bin\Debug\UintDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UintDataType\UintDataType\bin\Debug\UintDataType.pdb
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UintDataType\UintDataType\obj\Debug\UintDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\UintDataType\UintDataType\obj\Debug\UintDataType.pdb

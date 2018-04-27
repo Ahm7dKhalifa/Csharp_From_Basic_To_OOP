@@ -1,0 +1,6 @@
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\StringDataType\StringDataType\bin\Debug\StringDataType.exe.config
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\StringDataType\StringDataType\bin\Debug\StringDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\StringDataType\StringDataType\bin\Debug\StringDataType.pdb
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\StringDataType\StringDataType\obj\Debug\StringDataType.csprojResolveAssemblyReference.cache
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\StringDataType\StringDataType\obj\Debug\StringDataType.exe
+D:\هندسة\علم الالكترونيات\2-programming\1-languages\2-desktop languages\c#\exercies\1_varibles_datatypes\StringDataType\StringDataType\obj\Debug\StringDataType.pdb
