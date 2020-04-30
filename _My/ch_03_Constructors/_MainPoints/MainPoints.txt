@@ -5,22 +5,39 @@
 ========================================
 #resources :
 1- https://www.w3schools.com/cs/cs_constructors.asp
+2- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors
 
 ==========================================
 2.Constructor Parameters
+  - Constructor syntax
+  - new keyword
+  - Parameterless Constructors
+  - Constructor Overloading ( multiple Constructors )
+  - base-class constructor
+  - A constructor can invoke another constructor in the same object (this)
+  - Constructors Access Modifiers.
+  - How to write a copy constructor (C# Programming Guide)
 ==========================================
 #q/a --> 1
+#resources :
+1- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors
+2- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors
+3- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-write-a-copy-constructor
+
 
 ==========================================
-3.Constructor Overloading
+3.Static constructors
 ==========================================
 #q/a --> 1
+#resources :
+1- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-constructors
 
 ==========================================
-4.Benfits Of Using Constructor
+4.Private Constructors
 ==========================================
 #q/a --> 1
-
+#resources :
+1- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/private-constructors
 ==========================================
 5.
 ==========================================

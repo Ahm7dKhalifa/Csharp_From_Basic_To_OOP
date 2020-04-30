@@ -2,10 +2,11 @@
 
 ========================================
 1.what is Class Members
+  what are types of Class Members
 ========================================
 #resources :
 1- https://www.w3schools.com/cs/cs_class_members.asp
-
+2- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/members
 ==========================================
 2.Fields
   - what is Fields
