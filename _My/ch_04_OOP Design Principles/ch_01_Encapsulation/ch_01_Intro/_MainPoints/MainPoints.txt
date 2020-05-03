@@ -1,28 +1,43 @@
 
 
 ========================================
-1.what is Encapsulation
+1.what is Encapsulation ?
+  How To Achive 
 ========================================
 #resources :
 0- https://www.w3schools.com/cs/cs_properties.asp
 1- https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/
 2- https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
 3- https://www.guru99.com/java-oops-encapsulation.html
-==========================================
-2.
-==========================================
-
 
 ==========================================
-3.
+2.how to achieve encapsulation :
+  * class
+  * access modifiers
+  * properties
 ==========================================
-
+#resources :
+1- https://www.geeksforgeeks.org/c-sharp-encapsulation/
+2- https://www.quora.com/How-do-we-achieve-encapsulation-in-java
+3- https://www.tutlane.com/tutorial/csharp/csharp-encapsulation
 
 ==========================================
-4.
+3.mutable and immutable
 ==========================================
+#resources :
+1- https://www.c-sharpcorner.com/article/mutable-and-immutable-class-in-c-sharp/
+2- https://www.interviewcake.com/concept/java/mutable
 
-
+==========================================
+4.accessors and mutators
+  - traditional getter and setter methods
+  - properties
+==========================================
+#resources :
+1- https://www.quora.com/What-are-accessors-and-mutators-in-C
+2- https://www.c-sharpcorner.com/UploadFile/3614a6/accessors-and-mutators-in-java/
+3- https://www.bogotobogo.com/CSharp/csharp_encapsulation.php
+4- https://en.wikipedia.org/wiki/Mutator_method
 ==========================================
 5.
 ==========================================
