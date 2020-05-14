@@ -23,12 +23,13 @@
 ==========================================
 4.abstract in c# 
   - The abstract modifier can be used with :
-  - abstract class :
+  - abstract class features or rules :
      - Use the abstract modifier in a class declaration to indicate :
+     - abstract class can contain abstract Members and non-abstract  Members  
      - Members marked as abstract must be implemented by non-abstract classes that derive from the abstract class.
      - It is not possible to modify an abstract class with the sealed modifier 
   -  abstract method :
-     - Abstract methods have the following features:
+     - Abstract methods have the following features or rules :
 ==========================================
 #resources :
 - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract

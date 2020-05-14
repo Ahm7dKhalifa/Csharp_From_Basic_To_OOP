@@ -8,12 +8,12 @@
 2- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors
 
 ==========================================
-2.Constructor Parameters
-  - Constructor syntax
+2.Constructor Syntax
   - new keyword
-  - Parameterless Constructors
-  - Constructor Overloading ( multiple Constructors )
-  - base-class constructor
+  - Constructor Parameter
+      - Parameterless Constructors
+      - Constructor Overloading ( multiple Constructors )
+      - base-class constructor
   - A constructor can invoke another constructor in the same object (this)
   - Constructors Access Modifiers.
   - How to write a copy constructor (C# Programming Guide)

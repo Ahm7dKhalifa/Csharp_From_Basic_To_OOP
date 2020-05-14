@@ -12,8 +12,8 @@
 5- https://www.javatpoint.com/java-oops-concepts
 
 #notes :
-1- Abstraction : abstract classes or interfaces
-2- Encapsulation : access modifiers and properties
+1- Encapsulation : access modifiers and properties
+2- Abstraction : abstract classes or interfaces
 3- Polymorphism : overloading and overriding
 4- Inheritance : Multilevel and Multiple inheritances 
           
