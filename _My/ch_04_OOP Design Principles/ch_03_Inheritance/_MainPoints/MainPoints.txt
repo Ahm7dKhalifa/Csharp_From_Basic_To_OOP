@@ -1,0 +1,78 @@
+
+
+========================================
+1.Inheritance
+- what is Inheritance
+- base class vs derived class
+- Types of Inheritance in C#
+- Declare an inheritance syntax
+- Inheritance and access modifiers
+- Method overriding / Overloading
+- Defining abstract classes
+- A subclass is also of the type of its superclass
+- Not all members of a base class are inherited by derived classes
+========================================
+#resources :
+1- https://stackify.com/oop-concept-inheritance/
+2- https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance
+3- https://www.geeksforgeeks.org/c-sharp-inheritance/
+4- https://www.javatpoint.com/c-sharp-inheritance
+5- https://www.c-sharpcorner.com/UploadFile/0c1bb2/types-of-inheritance-in-C-Sharp/
+6- https://csharp-video-tutorials.blogspot.com/2013/08/part-21-inheritance.html
+==========================================
+2.
+==========================================
+
+
+==========================================
+3.
+==========================================
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
