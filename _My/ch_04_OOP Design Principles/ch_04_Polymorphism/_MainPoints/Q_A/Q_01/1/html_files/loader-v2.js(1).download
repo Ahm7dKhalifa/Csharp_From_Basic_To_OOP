@@ -1,0 +1,101 @@
+(function() {
+
+    var __hs_cta_json = {"css":"a#cta_button_207384_24e1d81b-4fc0-46be-9cce-f59f98cafe3f {\n    -webkit-font-smoothing: antialiased;\ncursor: pointer;\n-moz-user-select: none;\n-webkit-user-select: none;\n-o-user-select: none;\nuser-select: none;\ndisplay: inline-block;\nfont-weight: normal;\ntext-align: center;\ntext-decoration: none;\n-moz-transition: all .4s ease;\n-webkit-transition: all .4s ease;\n-o-transition: all .4s ease;\nbackground: rgb(96,195,34);\nborder-radius: 6px;\nborder-width: 0px;\ncolor: rgb(255,255,255);\nfont-family: sans-serif;\nheight: auto;\ntransition: all .4s ease;\npadding: 6px 18px;\ntext-shadow: none;\nwidth: auto;\nfont-size: 24px;\nline-height: 1.5em;\n\n      margin-left: auto;\n  margin-right: auto;\n  text-align: center!important;\n\n  }\n\na#cta_button_207384_24e1d81b-4fc0-46be-9cce-f59f98cafe3f:hover {\nbackground: rgb(105,214,37);\ncolor: rgb(255,255,255);\n}\n\na#cta_button_207384_24e1d81b-4fc0-46be-9cce-f59f98cafe3f:active, #cta_button_207384_24e1d81b-4fc0-46be-9cce-f59f98cafe3f:active:hover {\nbackground: rgb(76,156,27);\ncolor: rgb(244,244,244);\n}\n\n","css_links":[],"image_html":"<a id=\"cta_button_207384_24e1d81b-4fc0-46be-9cce-f59f98cafe3f\" class=\"cta_button\" href=\"https://info.stackify.com/cs/c/?cta_guid=24e1d81b-4fc0-46be-9cce-f59f98cafe3f&placement_guid=5d61212b-7798-4ec1-a3da-823c1a6f2bea&portal_id=207384&canon=https%3A%2F%2Fstackify.com%2Foop-concept-polymorphism%2F&redirect_url=APefjpGcxlzau5osErEBI0vnvTMYfKh_upq7ODjuTabOi5dFJDKidUBo1MF3KnRokZfew8btENltGaMA0hC9o37aH60u984xJoCMwC_nDALxDEUUnBqUCEYb4mjDrTYNBlyl_gtl9OwgMcxw4km1nI8unCQw0n2JxZOCePhNoHvWK1gy0-IzFF3AS3K87YhxUULhjhQLEj-n2Hy4XQ7vFJETKVHrp5ajletl86W45IZ-yUOubLbU5vY&click=83c042e9-7c8f-4ae1-9f5c-8a314cab27ad&hsutk=dc82b4b4f9f883db0dde7f8375ea984f&signature=AAH58kHq2Pj63MSPif0A2FVIX-bKCcJOwA\"  cta_dest_link=\"http://stackify.com/trial-filter/\"><img id=\"hs-cta-img-5d61212b-7798-4ec1-a3da-823c1a6f2bea\" class=\"hs-cta-img \" style=\"border-width: 0px; /*hs-extra-styles*/\" mce_noresize=\"1\" alt=\"Start For Free\" src=\"https://cdn2.hubspot.net/hubshot/20/04/06/fbf2329d-cd19-46c6-9863-112c4a280df4.png\" srcset=\"https://cdn2.hubspot.net/hubshot/20/04/06/0f8ab14e-6625-48c7-ac06-d2904e9f9b01.png 4x, https://cdn2.hubspot.net/hubshot/20/04/06/99785b7c-47b4-4d32-b900-bebd064d3039.png 3x, https://cdn2.hubspot.net/hubshot/20/04/06/7d5ecc93-aee0-4164-8299-c972c0a45eb4.png 2x\"/></a>","is_image":false,"placement_element_class":"hs-cta-5d61212b-7798-4ec1-a3da-823c1a6f2bea","raw_html":"<a id=\"cta_button_207384_24e1d81b-4fc0-46be-9cce-f59f98cafe3f\" class=\"cta_button \" href=\"https://info.stackify.com/cs/c/?cta_guid=24e1d81b-4fc0-46be-9cce-f59f98cafe3f&placement_guid=5d61212b-7798-4ec1-a3da-823c1a6f2bea&portal_id=207384&canon=https%3A%2F%2Fstackify.com%2Foop-concept-polymorphism%2F&redirect_url=APefjpGcxlzau5osErEBI0vnvTMYfKh_upq7ODjuTabOi5dFJDKidUBo1MF3KnRokZfew8btENltGaMA0hC9o37aH60u984xJoCMwC_nDALxDEUUnBqUCEYb4mjDrTYNBlyl_gtl9OwgMcxw4km1nI8unCQw0n2JxZOCePhNoHvWK1gy0-IzFF3AS3K87YhxUULhjhQLEj-n2Hy4XQ7vFJETKVHrp5ajletl86W45IZ-yUOubLbU5vY&click=83c042e9-7c8f-4ae1-9f5c-8a314cab27ad&hsutk=dc82b4b4f9f883db0dde7f8375ea984f&signature=AAH58kHq2Pj63MSPif0A2FVIX-bKCcJOwA\"  style=\"/*hs-extra-styles*/\" cta_dest_link=\"http://stackify.com/trial-filter/\" title=\"Start For Free\"><div style=\"text-align: left; font-size: 24px;\">Start For Free</div></a>"};
+    var __hs_cta = {};
+
+    __hs_cta.drop = function() {
+        var is_legacy = document.getElementById('hs-cta-ie-element') && true || false,
+            html = __hs_cta_json.image_html,
+            tags = __hs_cta.getTags(),
+            is_image = __hs_cta_json.is_image,
+            parent, _style;
+
+        if (!is_legacy && !is_image) {
+            parent = (document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]);
+
+            _style = document.createElement('style');
+            parent.insertBefore(_style, parent.childNodes[0]);
+            try {
+                default_css = ".hs-cta-wrapper p, .hs-cta-wrapper div { margin: 0; padding: 0; }";
+                cta_css = default_css + " " + __hs_cta_json.css;
+                // http://blog.coderlab.us/2005/09/22/using-the-innertext-property-with-firefox/
+                _style[document.all ? 'innerText' : 'textContent'] = cta_css;
+            } catch (e) {
+                // addressing an ie9 issue
+                _style.styleSheet.cssText = cta_css;
+            }
+            
+            html = __hs_cta_json.raw_html;
+
+        }
+         
+
+        for (var i = 0; i < tags.length; ++i) {
+
+            var tag = tags[i];
+            var images = tag.getElementsByTagName('img');
+            var cssText = "";
+            var align = "";
+            for (var j = 0; j < images.length; j++) {
+                align = images[j].align;
+                images[j].style.border = '';
+                images[j].style.display = '';
+                cssText = images[j].style.cssText;
+            }
+
+            if (align == "right") {
+                tag.style.display = "block";
+                tag.style.textAlign = "right";
+            } else if (align == "middle") {
+                tag.style.display = "block";
+                tag.style.textAlign = "center";
+            }
+
+            tag.innerHTML = html.replace('/*hs-extra-styles*/', cssText);
+            tag.style.visibility = 'visible';
+            tag.setAttribute('data-hs-drop', 'true');
+            window.hbspt && hbspt.cta && hbspt.cta.afterLoad && hbspt.cta.afterLoad('5d61212b-7798-4ec1-a3da-823c1a6f2bea');
+        }
+
+        return tags;
+    };
+
+    __hs_cta.getTags = function() {
+        var allTags, check, i, divTags, spanTags,
+            tags = [];
+            if (document.getElementsByClassName) {
+                allTags = document.getElementsByClassName(__hs_cta_json.placement_element_class);
+                check = function(ele) {
+                    return (ele.nodeName == 'DIV' || ele.nodeName == 'SPAN') && (!ele.getAttribute('data-hs-drop'));
+                };
+            } else {
+                allTags = [];
+                divTags = document.getElementsByTagName("div");
+                spanTags = document.getElementsByTagName("span");
+                for (i = 0; i < spanTags.length; i++) {
+                    allTags.push(spanTags[i]);
+                }
+                for (i = 0; i < divTags.length; i++) {
+                    allTags.push(divTags[i]);
+                }
+
+                check = function(ele) {
+                    return (ele.className.indexOf(__hs_cta_json.placement_element_class) > -1) && (!ele.getAttribute('data-hs-drop'));
+                };
+            }
+            for (i = 0; i < allTags.length; ++i) {
+                if (check(allTags[i])) {
+                    tags.push(allTags[i]);
+                }
+            }
+        return tags;
+    };
+
+    // need to do a slight timeout so IE has time to react
+    setTimeout(__hs_cta.drop, 10);
+    
+    window._hsq = window._hsq || [];
+    window._hsq.push(['trackCtaView', '5d61212b-7798-4ec1-a3da-823c1a6f2bea', '24e1d81b-4fc0-46be-9cce-f59f98cafe3f']);
+    
+
+}());
