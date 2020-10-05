@@ -1,0 +1,88 @@
+
+
+========================================
+1.What is IOC ?
+- Types Of Controls ?
+- IOC Steps
+========================================
+#resources :
+1- https://www.tutorialsteacher.com/ioc/inversion-of-control
+2- http://picocontainer.com/inversion-of-control.html
+3- https://www.perfomatix.com/inversion-of-controlioc-and-dependency-injectiondi/
+
+==========================================
+2.Dependency Inversion Principle
+- what is Dependency Inversion Principle ?
+- what is A high-level module and low-level module ?
+- Business logic and data access example
+==========================================
+#resources :
+1- https://www.tutorialsteacher.com/ioc/dependency-inversion-principle
+
+==========================================
+3.Dependency Injection
+- what is Dependency Injection ?
+- types of Dependency Injection ?
+==========================================
+#resources:
+1- https://www.tutorialsteacher.com/ioc/dependency-injection
+
+==========================================
+4.IoC Container
+- what is IoC Container ?
+- what are functions of IoC Container ?
+- examples for IoC Container for .NET 
+==========================================
+#RESOURCES :
+1- https://www.tutorialsteacher.com/ioc/ioc-container
+
+==========================================
+5.Unity :
+- Install Unity Container in Visual Studio
+- Register and Resolve
+- Constructor Injection
+- Property Injection
+- Method Injection
+- Overrides
+- Lifetime Managers in Unity Container
+==========================================
+#resources :
+1- https://www.tutorialsteacher.com/ioc/unity-container
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
