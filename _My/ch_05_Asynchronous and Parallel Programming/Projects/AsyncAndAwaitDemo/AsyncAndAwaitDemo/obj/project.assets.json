@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Ahmed Khalifa\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Programming\\Csharp_From_Basic_To_OOP\\_My\\ch_05_Asynchronous and Parallel Programming\\Projects\\AsyncAndAwaitDemo\\AsyncAndAwaitDemo\\AsyncAndAwaitDemo.csproj",
+      "projectName": "AsyncAndAwaitDemo",
+      "projectPath": "E:\\Programming\\Csharp_From_Basic_To_OOP\\_My\\ch_05_Asynchronous and Parallel Programming\\Projects\\AsyncAndAwaitDemo\\AsyncAndAwaitDemo\\AsyncAndAwaitDemo.csproj",
+      "packagesPath": "C:\\Users\\Ahmed Khalifa\\.nuget\\packages\\",
+      "outputPath": "E:\\Programming\\Csharp_From_Basic_To_OOP\\_My\\ch_05_Asynchronous and Parallel Programming\\Projects\\AsyncAndAwaitDemo\\AsyncAndAwaitDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ahmed Khalifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\Work\\NVP\\Code\\V2020_12_20\\Source\\src\\NVP.Web.Mvc\\wwwroot\\lib_files": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
