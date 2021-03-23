@@ -11,7 +11,7 @@
 3- https://www.guru99.com/java-oops-encapsulation.html
 
 ==========================================
-2.how to achieve encapsulation :
+2.how to achieve encapsulation ?
   * class
   * access modifiers
   * properties
@@ -22,14 +22,14 @@
 3- https://www.tutlane.com/tutorial/csharp/csharp-encapsulation
 
 ==========================================
-3.mutable and immutable
+3.mutable vs immutable
 ==========================================
 #resources :
 1- https://www.c-sharpcorner.com/article/mutable-and-immutable-class-in-c-sharp/
 2- https://www.interviewcake.com/concept/java/mutable
 
 ==========================================
-4.accessors and mutators
+4.accessors vs mutators
   - traditional getter and setter methods
   - properties
 ==========================================

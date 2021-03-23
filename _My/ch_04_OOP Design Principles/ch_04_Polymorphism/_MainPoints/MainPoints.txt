@@ -2,9 +2,9 @@
 
 ========================================
 1.What is Polymorphism ? 
-  - Different types of polymorphism
-  - Static polymorphism : method overloading
-  - Dynamic polymorphism : Method overriding
+  - list and explain : Different types of polymorphism ?
+  	- Static polymorphism : method overloading
+  	- Dynamic polymorphism : Method overriding
 ========================================
 #resources :
 1- https://stackify.com/oop-concept-polymorphism/

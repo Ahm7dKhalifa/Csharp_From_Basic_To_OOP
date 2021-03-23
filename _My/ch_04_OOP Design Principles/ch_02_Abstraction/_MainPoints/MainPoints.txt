@@ -2,6 +2,7 @@
 
 ========================================
 1.what is Abstraction ?
+  - What are the different types of abstraction?
 ========================================
 #resources :
 1- https://stackify.com/oop-concept-abstraction/
@@ -9,7 +10,7 @@
 3- https://www.journaldev.com/33191/what-is-abstraction-in-oops
 
 ==========================================
-2.how to achieve Abstraction :
+2.how to achieve Abstraction ?
   - interfaces 
   - abstract classes.
 ==========================================

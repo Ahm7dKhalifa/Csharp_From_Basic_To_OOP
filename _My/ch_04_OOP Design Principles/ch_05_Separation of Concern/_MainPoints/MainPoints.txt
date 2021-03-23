@@ -1,31 +1,23 @@
 
 
 ========================================
-1.What is SoC ?
+1.What is SoC ? 
+  - seperate as you can
+      - one small job for every concern ( function - component - module - part )
 ========================================
 #resources :
 1- https://simplicable.com/new/separation-of-concerns
 2- https://en.wikipedia.org/wiki/Separation_of_concerns
 3- https://nalexn.github.io/separation-of-concerns/
 
+
 ==========================================
-2.home and rooms examples
+4.what are advantages of soc ?
 ==========================================
 #q/a --> 1
 
 ==========================================
-3.seperate as you can
-  - one small job for every concern ( function - component - module - part )
-==========================================
-#q/a --> 1
-
-==========================================
-4.advantages of soc
-==========================================
-#q/a --> 1
-
-==========================================
-5.examples of different forms or levels of soc
+5.give examples for different forms or levels of soc
 ==========================================
 #q/a --> 1
 

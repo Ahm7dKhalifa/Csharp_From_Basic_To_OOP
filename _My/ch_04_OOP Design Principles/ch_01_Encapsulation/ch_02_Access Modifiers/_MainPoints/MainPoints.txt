@@ -3,8 +3,10 @@
 ========================================
 1.Access Modifiers
   - what is Access Modifiers?
-  - types of Access Modifiers
-  - default Access Modifiers
+  - list and explain :  types of Access Modifiers
+  - list and explain :  types of Class Members
+  - what are Access Modifiers that each Class Members can have ?
+    and also what is the default access modifier to every class member ?
 ========================================
 #resources :
 1- https://www.w3schools.com/cs/cs_access_modifiers.asp

@@ -4,13 +4,13 @@
 1.Inheritance
 - what is Inheritance
 - base class vs derived class
-- Types of Inheritance in C#
+- explain Type of Inheritance ? 
+- what are the members of a base class that can not be inherited ?
+- explain how access modifiers affect on the visibility of base class members in the Inheritance ?
 - Declare an inheritance syntax
-- Inheritance and access modifiers
-- Method overriding / Overloading
+- Method Overriding vs Method Overloading
 - Defining abstract classes
-- A subclass is also of the type of its superclass
-- Not all members of a base class are inherited by derived classes
+
 ========================================
 #resources :
 1- https://stackify.com/oop-concept-inheritance/

@@ -2,8 +2,9 @@
 
 ========================================
 1.What is IOC ?
-- Types Of Controls ?
-- IOC Steps
+- List And Explain : Types Of Controls ?
+- List : pattern that implements the IoC principle
+- List And Explain : IOC Steps ?
 ========================================
 #resources :
 1- https://www.tutorialsteacher.com/ioc/inversion-of-control
@@ -14,7 +15,7 @@
 2.Dependency Inversion Principle
 - what is Dependency Inversion Principle ?
 - what is A high-level module and low-level module ?
-- Business logic and data access example
+- see example : Business logic and data access example using interfaces
 ==========================================
 #resources :
 1- https://www.tutorialsteacher.com/ioc/dependency-inversion-principle
@@ -22,7 +23,7 @@
 ==========================================
 3.Dependency Injection
 - what is Dependency Injection ?
-- types of Dependency Injection ?
+- List And Explain : types of Dependency Injection ?
 ==========================================
 #resources:
 1- https://www.tutorialsteacher.com/ioc/dependency-injection
@@ -50,9 +51,10 @@
 1- https://www.tutorialsteacher.com/ioc/unity-container
 
 ==========================================
-6.
+6.IOC  vs Dependency Inversion Principle vs Dependency Injection
 ==========================================
-
+#resources :
+1- https://www.tutorialsteacher.com/ioc/introduction
 
 ==========================================
 7.
