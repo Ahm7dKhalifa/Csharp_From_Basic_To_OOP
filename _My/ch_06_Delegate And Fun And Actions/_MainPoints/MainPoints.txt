@@ -1,0 +1,82 @@
+
+
+========================================
+1.- what is Delegates ?
+  - explain the three steps involved while working with delegates ?
+  - give example to Pass Delegate as a Parameter ?
+  - Generic Delegate
+    - what is Generic Delegate ?
+    - give example of it
+========================================
+#resources :
+1- https://www.tutorialsteacher.com/csharp/csharp-delegates
+
+==========================================
+2.Func Delegate
+  - what is the Func Delegate ?
+  - what is number of input and output parameters in Func Delegate ? 
+    and the order of them when we define the func delegate ?  
+  - give example to func delegate with one input parameter and one output parameter ?
+  - give example to func delegate with two input parameter and one output parameter ?
+  - give example to func delegate with an Anonymous Method .
+  - give example to func delegate with an Lambda Expression Method .
+==========================================
+#resources :
+1- https://www.tutorialsteacher.com/csharp/csharp-func-delegate
+
+==========================================
+3.Action Delegate VS Func Delegate
+==========================================
+#resources :
+1- https://www.tutorialsteacher.com/csharp/csharp-action-delegate
+
+==========================================
+4.Predicate Delegate
+  - what is Predicate Delegate ?
+  - what is the Predicate Delegate signature ?
+==========================================
+#resources :
+1- https://www.tutorialsteacher.com/csharp/csharp-predicate
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
